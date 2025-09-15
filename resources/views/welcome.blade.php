@@ -23,7 +23,7 @@
                 Krusit
             </h1>
             <p class="mt-4 text-lg md:text-xl text-gray-800">
-                Solusi kreatif untuk berbagi ide dan inovasi digital.
+                Selamat Datang di website UMKM Krusit.
             </p>
         </div>
 
